@@ -1,6 +1,6 @@
 # Camunda Cycle Ibo Prometheus Connector
 
-This is a Ibo Prometheus Connector for [camunda Cycle][1]. It contains the implementation of a connector which persists and synchronizes bmpn models between the a Ibo repository and another location, like a file repository.  
+This is a Ibo Prometheus Connector for [camunda Cycle][1]. It contains the implementation of a connector which persists and synchronizes BPMN models between the a Ibo repository and another location, like a file repository.  
 
 ## How to use it?
 
